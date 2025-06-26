@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7ea5168f-d470-4db3-8fd6-4c088ddd16ee)
+
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">I'm Mahesh R. I completed my bachelors in CSE at GAT, Bangalore. I'm interested in Web dev, LLMs, Design and anything related to Tech.</h2>
 
