@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Mahesh R. I completed my bachelors in CSE at GAT, Bangalore. I'm interested in Web dev, LLMs, Design and anything related to Tech.
+
+- 🔭 I’m currently working on personal projects to level up my development skills. Have a look at [My Portfolio](https://myportfolio-qk2m.vercel.app/)
+- 🌱 I’m recently built a react web based transcription & translation app to run ML models in the browser. Check it out [here](https://free-scribe-alpha.vercel.app/)
+- 👯 Want to collaborate? DM me on [Linkedin](https://www.linkedin.com/in/mahesh-r-179068294)
+
 <!--
 **MaheshR03/maheshr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
