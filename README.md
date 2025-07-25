@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm Mahesh R. I completed my bachelors in CSE at GAT, Bangalore. I'm interested in Web dev, LLMs, Design and anything related to Tech.</h2>
+<h2 align="center">I'm Mahesh R. I'm interested in Web dev, LLMs, Design and anything related to Tech.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshr03&label=Profile%20views&color=0e75b6&style=flat" alt="maheshr03" /> </p>
 
