@@ -9,8 +9,6 @@
 
 - 🌱 I recently built a react web based transcription & translation app to run ML models in the browser. Check it out [here](https://free-scribe-alpha.vercel.app/)
 
-- 👯 Want to collaborate? DM me on [Linkedin](https://www.linkedin.com/in/mahesh-r-179068294)
-
 - 📫 How to reach me **maheshr3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
